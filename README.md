@@ -2,6 +2,8 @@ Online Store is a modern React + Vite application built to manage cars, user aut
 
 Deploy URL: https://stalwart-druid-2a689a.netlify.app/
 
+Figma link: https://www.figma.com/design/80rIHzJI5NZIhZAaZm5Skc/Untitled?node-id=0-1&t=4rSGtmDQcXW7rEM3-1
+
 Features
 - Browse car listings with dynamic search and filtering.
 - View detailed car pages and manage inventory from admin area.
