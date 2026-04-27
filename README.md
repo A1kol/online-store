@@ -1,5 +1,12 @@
 Online Store is a modern React + Vite application built to manage cars, user authentication, and admin workflows. It uses React Router for navigation, React Hook Form for validated forms, Axios for API integration, and Tailwind CSS via Vite for responsive styling.
 
+<<<<<<< HEAD
+=======
+Deploy URL: https://stalwart-druid-2a689a.netlify.app/
+
+Figma link: https://www.figma.com/design/80rIHzJI5NZIhZAaZm5Skc/Untitled?node-id=0-1&t=4rSGtmDQcXW7rEM3-1
+
+>>>>>>> 8a63d3bfb34cb06b941e900016358bb1440862a9
 Features
 - Browse car listings with dynamic search and filtering.
 - View detailed car pages and manage inventory from admin area.
@@ -20,4 +27,4 @@ Getting Started
 3. Build for production: npm run build
 4. Preview build: npm run preview
 
-This repository is ideal for frontend developers learning a real-world Vite + React app with auth, routing, and Tailwind-driven UI. Adapt it to any product inventory or e-commerce workflow. It is clean, maintainable, and extensible.
+This repository is ideal for frontend developers learning a real-world Vite + React app with auth, routing, and Tailwind-driven UI. Adapt it to any product inventory or e-commerce workflow. It is clean, maintainable, and extensible
